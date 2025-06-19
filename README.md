@@ -109,3 +109,14 @@ Edit `config.py` to customize:
 ## ⚠️ Disclaimer
 
 This tool is for educational purposes only. Users are responsible for ensuring they have proper authorization before conducting any phishing simulations. 
+
+
+![Screenshot 2025-06-18 150523](https://github.com/user-attachments/assets/bdccfc3c-203d-4a16-a00d-facce1cd00e4)
+
+![Screenshot 2025-06-18 150508](https://github.com/user-attachments/assets/18b93abe-35f3-4b29-8bde-0ca3d82fe18a)
+
+![Screenshot 2025-06-19 084519](https://github.com/user-attachments/assets/2bfc5705-a273-4718-96b2-f318aacdfae7)
+
+![Screenshot 2025-06-19 084730](https://github.com/user-attachments/assets/c6b4b7f4-f790-4b0b-952f-e1519d31b2d5)
+
+![Screenshot 2025-06-19 084824](https://github.com/user-attachments/assets/343b7464-1fb9-4928-b6f4-174191aff140)
