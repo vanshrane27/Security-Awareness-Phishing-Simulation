@@ -1,0 +1,3 @@
+Campaign ID,Email,IP Address,User Agent,Timestamp,Event Type,Submitted Data
+default,vansh555.vr@gmail.com,127.0.0.1,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0",2025-06-17 15:15:46.139988,submit,"{""email"": ""vansh555.vr@gmail.com"", ""password"": ""vansh@1223"", ""campaign_id"": ""default""}"
+default,vansh555.vr@gmail.com,127.0.0.1,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0",2025-06-18 06:39:09.033141,submit,"{""email"": ""vansh555.vr@gmail.com"", ""password"": null, ""campaign_id"": ""default""}"
